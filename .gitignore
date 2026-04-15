@@ -33,6 +33,7 @@ MANIFEST
 *.spec
 *.xls
 *.xlsx
+*.zip
 
 # Installer logs
 pip-log.txt
